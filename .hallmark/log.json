@@ -1,0 +1,28 @@
+[
+ {
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "app",
+  "shape": "app screen",
+  "theme": "hum",
+  "axes": "light/rounded-sans/chromatic-yellow",
+  "nav": "top bar per screen",
+  "footer": "reset link",
+  "imagery": "none",
+  "photos": [],
+  "entry": "level select",
+  "fingerprint": "tier columns + card-stock crossword on torn sugar mat",
+  "sections": [
+   "level select",
+   "game",
+   "complete dialog"
+  ],
+  "signature": "Turkish clue set large over a card-stock crossword",
+  "hero": "none (app)",
+  "waived": [
+   "39b"
+  ],
+  "prompt": "crossword game for Turkish speakers learning English vocabulary",
+  "date": "2026-11-17"
+ }
+]
